@@ -13,7 +13,7 @@ Captures a screenshot for a player and returns the image data to your callback.
 | Parameter  | Type                   | Description                                                    |
 | ---------- | ---------------------- | -------------------------------------------------------------- |
 | `source`   | `number`               | Player source to capture                                       |
-| `options`  | `object`               | Capture options (see below)                                    |
+| `options`  | `object`               | Capture options (see below)                                    |wd
 | `callback` | `function`             | Called with the captured image data                            |
 | `dataType` | `'base64'` \| `'blob'` | Format of the data passed to the callback. Default: `'base64'` |
 
